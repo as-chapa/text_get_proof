@@ -1,0 +1,2 @@
+# text_get_proof
+Yahoo！ニュースのサマリを取得してリクルートテクノロジーズのProofreadingAPIにかませて文章チェックをする
